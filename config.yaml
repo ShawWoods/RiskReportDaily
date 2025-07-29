@@ -1,0 +1,16 @@
+```yaml
+file_paths:
+  holdings: data/holdings.xlsx
+  netvalue: data/netvalue.xlsx
+  transactions: data/transactions.xlsx
+api:
+  eastmoney_url: https://api.eastmoney.com/bond/data
+  api_key: your-eastmoney-api-key
+email:
+  smtp_server: smtp.example.com
+  smtp_port: 587
+  username: your-username
+  password: your-password
+  to: example@grzq.com
+  cc: chendt@grzq.com;lvming@grzq.com;guopeng@grzq.com
+```
