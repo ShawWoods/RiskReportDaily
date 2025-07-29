@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+logs/
+*.xls
+*.xlsx
+*.log
+venv/
+.idea/
+*.DS_Store
+config.yaml
